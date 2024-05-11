@@ -63,10 +63,14 @@ Similar to the Double Player - Simple Tic Tac Toe mode, two players can battle e
 
 ## 🔗Media
 
-- [Screenshot 1](#)
-- [Screenshot 2](#)
-- [Screenshot 2](#)
-- [Screenshot 2](#)
+<img src="https://github.com/KeshavD01/Ultimate-Tic-Tac-Toe/assets/122630636/6d1e99b4-6d09-435f-a747-fbab7da0dec7" width="200">
+
+<img src="https://github.com/KeshavD01/Ultimate-Tic-Tac-Toe/assets/122630636/8ee67c18-f5c9-454f-af2b-ddb591004eb9" width="200">
+
+<img src="https://github.com/KeshavD01/Ultimate-Tic-Tac-Toe/assets/122630636/ac9dcf53-9b21-4d6f-a546-678a9c88a5f1" width="250">
+
+<img src="https://github.com/KeshavD01/Ultimate-Tic-Tac-Toe/assets/122630636/dbe06950-8de8-4f5d-b8cd-43f336fa27bd" width="400">
+
   
 ## 🛠Installation
 

@@ -80,8 +80,7 @@ Similar to the Double Player - Simple Tic Tac Toe mode, two players can battle e
 
 ## 🤖Tech Stack
 
-- Python
-- Tkinter
+[![Python](https://img.shields.io/badge/Python-3.12.0-blue.svg)](https://www.python.org/)
 
 ## 👨‍💻Team Members
 
